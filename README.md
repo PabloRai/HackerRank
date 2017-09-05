@@ -6,4 +6,4 @@
   - [Dynamic Array](https://github.com/PabloRai/HackerRank/tree/master/src/dynamicArray)
   - [Array Left Rotation](https://github.com/PabloRai/HackerRank/tree/master/src/arrayLeftRotation)
   - [Sparse Arrays](https://github.com/PabloRai/HackerRank/tree/master/src/sparseArrays)
-  - [Crunch](https://github.com/PabloRai/HackerRank/tree/master/src/crunch)
+  - [Crunch](https://github.com/PabloRai/HackerRank/tree/master/src/crush)
