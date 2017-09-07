@@ -8,3 +8,5 @@
   - [Sparse Arrays](https://github.com/PabloRai/HackerRank/tree/master/src/sparseArrays)
   - [Crush](https://github.com/PabloRai/HackerRank/tree/master/src/crush)
   - [Making Anagrams](https://github.com/PabloRai/HackerRank/tree/master/src/makingAnagrams)
+  - [The hurdle race](https://github.com/PabloRai/HackerRank/tree/master/src/theHurdleRace)
+  - [Big Sorting](https://github.com/PabloRai/HackerRank/tree/master/src/bigSorting)
